@@ -10,3 +10,9 @@ student1.enroll(course1)
 student1.enroll(course2)
 
 student1.display_courses()
+
+x = input("Enter a number: ")
+y = 10 + int(x)
+
+# This is a test for the Student and Course classes.
+print(f"You entered: {x} and math.plus 10 is: {y}")
